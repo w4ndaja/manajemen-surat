@@ -13,12 +13,14 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Sistem Persuratan Dinas Tenaga Kerja dan Transmigrasi Sumatera Utara
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Application is under construction
+        </p>
+        <p className={styles.description}>
+          Salsa Tri Handayani
         </p>
 
         <div className={styles.grid}>
